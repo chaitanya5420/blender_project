@@ -1,6 +1,7 @@
 {
   "name": "3d_proj",
-  "homepage": "https://github.com/chaitanya5420/blender_project/",
+  "homepage": "https://chaitanya5420.github.io/blender_project/",
+  
   "private": true,
   "version": "0.0.0",
   "type": "module",
